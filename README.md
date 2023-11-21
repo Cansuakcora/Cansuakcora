@@ -2,13 +2,6 @@
 
 I am a Computer Engineering graduate and a Front End Developer open to learning new technologies, especially interested in front-end languages and web programming.
 
-
-- 👨‍💻 I’m currently working in **NicEye Group**
-- 🌱 I’m currently learning: **React, Vue**
-- 💻 All of my projects are available at [https://github.com/Cansuakcora?tab=repositories](https://github.com/Cansuakcora?tab=repositories)
-- 📫 How to reach me **cansuakcora1@gmail.com**
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CansuAkcora)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cansuakcora/) 
 
 
